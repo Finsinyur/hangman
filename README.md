@@ -1,7 +1,7 @@
 # Hangman on Python
 
 This game is a basic hangman made automated using Python.
-The coding style is highly modular, with one main executable code "Hangman.py",
+The coding style is highly modular, with one main executable code "HangmanBeta.py",
 and 6 other modules to support the gameplay.
 
 ## LIST OF MODULES:
