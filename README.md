@@ -1,4 +1,4 @@
-# THIS IS THE INSTRUCTION FOR HANGMAN BY CADEN LEE
+# Hangman on Python
 
 This game is a basic hangman made automated using Python.
 The coding style is highly modular, with one main executable code "Hangman.py",
